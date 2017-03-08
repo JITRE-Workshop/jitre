@@ -1,8 +1,6 @@
-Requirements engineering (RE) in agile and open source
-settings is quite different than RE in more conventional development
-settings. In particular, these requirements tend to be more ad-hoc and
-‘just-in-time’, developed as needed rather than upfront. Requirements
-might be called user stories, features, or even tasks [^1]. 
+![](assets/images/j-i-t_2.png)
+
+Requirements engineering (RE) in agile and open source settings is quite different than RE in more conventional development settings. In particular, these requirements tend to be more ad-hoc and ‘just-in-time’, developed as needed rather than upfront.  Requirements might  be called user stories, features, or even tasks [^1]. 
 
 Just in time as a production strategy can be traced to Toyota and other Japanese firms in the 1950s. The strategy referred to meeting customer demand atthe right time and in the exact amount, where customer could be the final purchaser or another process further along the production line. Ohno [^2] underpinned just in time with 3 principles of economic growth: build only what is needed, eliminate anything which does not add value, and stop if something goes wrong. The just-in-time philosophy was also applied to software engineering, serving as a basic tenet of the lean software practices and the agile community [^3]. Research on just-in-time requirements has recently emerged [^4],[^5],[^6], which not only challenges classical RE’s assumptions [^7] but also illuminates potentially transformative ideas to improve RE practice especially in distributed and decentralized settings [^8].
 
@@ -29,12 +27,10 @@ We invite submissions in the following categories.
 -   **research summaries** (4 pages), intended to make all participants
     aware of existing and ongoing research in this area.
 
-Submit papers via
-EasyChair: <https://easychair.org/conferences/?conf=jitre2015> and
-follow the [IEEE formatting
-instructions](http://re15.org/pages/faq/formatting_instructions). <span
-style="color:#444444;font-size:3.2rem;font-weight:bold;line-height:1.2;">Key
-Dates</span>
+Submit papers via EasyChair: <https://easychair.org/conferences/?conf=jitre2017> and
+follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_instructions).
+
+## Key Dates
 
 -   Submission: June 
 -   Notification: June 
