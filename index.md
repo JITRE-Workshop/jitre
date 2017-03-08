@@ -45,6 +45,11 @@ This 1-day workshop will consist of an opening keynote, followed by morning pres
 
 This initial workshop on just-in-time RE aims to gather researchers working in this area in order to discover a set of open research problems and define a position statement outlining the ways in which just-in-time RE differs from traditional RE. Some characteristics like lightweight representation and evolutionary refinement of requirements are identified in [^4], [^5]. However, we anticipate wide, varied, open, and lively discussions reshaping the landscape and themes of just-in-time RE in the workshop. It is also our anticipation that the workshop provides a venue for researchers and practitioners to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
 
+## Past Workshops
+
+1. JITRE-2015, outcomes report ([page 1](2015/2015-workshop-summary1.html), [page 2](2015/2015-workshop-summary2.html))
+2. 
+
 ## References
 
 [^1]:  Walt Scacchi, *Understanding the requirements for developing open source software systems*, IEE Software, 149(1): 24–39,
