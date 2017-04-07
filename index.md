@@ -32,10 +32,10 @@ follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_
 
 ## Key Dates
 
--   Submission: June 
--   Notification: June 
--   Camera-Ready: July 
--   Workshop: August 
+- Paper Submission	Friday, June 09, 2017
+- Paper Notification	Friday, June 30, 2017
+- Camera Ready Due	Sunday, July 16, 2017
+- Workshops	Monday or Tuesday, September 4 or 5, 2017
 
 ## Format
 
