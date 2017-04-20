@@ -3,7 +3,7 @@
 * Vander Alves, University of Brasilia, Brazil 
 * Claudia Ayala, Polytechnic University of Catalonia, Spain
 * Tanmay Bhowmik, Mississippi State U, USA 
-* Jane Cleland-Huang, U of Dotre Dame, USA 
+* Jane Cleland-Huang, U of Notre Dame, USA 
 * Maya Daneva, U of Twente, The Netherlands 
 * Petra Heck, Fontys Applied U, The Netherlands 
 * Zhi Jin, Peking U, China
