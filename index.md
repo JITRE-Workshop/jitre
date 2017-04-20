@@ -1,8 +1,13 @@
 ![](assets/images/j-i-t_2.png)
 
+Requirements engineering (RE) in agile and open source settings is quite different than RE in more conventional development settings. In particular, these requirements tend to be more ad-hoc and ‘just-in-time’, developed as needed rather than upfront. Requirements might be called user stories, features, or even tasks. The differences become even more evident when it comes to optimal management of software quality demands and the integration of non-functional requirements into the software life cycle.
+
+This year, the Just-in-Time requirements engineering workshop will therefore put a particular focus on current challenges that agile software development teams face wheninteg rating non-functional requirements into their practices. For instance, how are they represented in the backlog (as user stories, as acceptance criteria, ...)? How are they integrated into testing strategies? The theme is accordingly “Dealing with Non-functional requirements in Agile Software Development”. The workshop aims to gather researchers and practitioners in order to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
+
+<!--
 Requirements engineering (RE) in agile and open source settings is quite different than RE in more conventional development settings. In particular, these requirements tend to be more ad-hoc and ‘just-in-time’, developed as needed rather than upfront.  Requirements might  be called user stories, features, or even tasks [^1]. 
 
-Just in time as a production strategy can be traced to Toyota and other Japanese firms in the 1950s. The strategy referred to meeting customer demand at the right time and in the exact amount, where customer could be the final purchaser or another process further along the production line. Ohno [^2] underpinned just in time with 3 principles of economic growth: build only what is needed, eliminate anything which does not add value, and stop if something goes wrong. The just-in-time philosophy was also applied to software engineering, serving as a basic tenet of the lean software practices and the agile community [^3]. Research on just-in-time requirements has recently emerged [^4],[^5],[^6], which not only challenges classical RE’s assumptions [^7] but also illuminates potentially transformative ideas to improve RE practice especially in distributed and decentralized settings [^8].
+Just in time as a production strategy can be traced to Toyota and other Japanese firms in the 1950s. The strategy referred to meeting customer demand at the right time and in the exact amount, where customer could be the final purchaser or another process further along the production line. Ohno [^2] underpinned just in time with 3 principles of economic growth: build only what is needed, eliminate anything which does not add value, and stop if something goes wrong. The just-in-time philosophy was also applied to software engineering, serving as a basic tenet of the lean software practices and the agile community [^3]. Research on just-in-time requirements has recently emerged [^4],[^5],[^6], which not only challenges classical RE’s assumptions [^7] but also illuminates potentially transformative ideas to improve RE practice especially in distributed and decentralized settings [^8]. -->
 
 ## Topics of Interest
 
@@ -22,10 +27,9 @@ Just in time as a production strategy can be traced to Toyota and other Japanese
 
 We invite submissions in the following categories.
 
--   **position papers** (4 pages), intended to stimulate discussion,
-    particularly by the breakout session
--   **research summaries** (4 pages), intended to make all participants
-    aware of existing and ongoing research in this area.
+* position papers (4 pages), intended to stimulate discussion, particularly by the breakout session
+* research summaries (4 pages), intended to make all participants aware of existing and ongoing research in this area.
+* experience reports (4 pages), intended to share experiences and lessons learnt made in industrial environments.
 
 Submit papers via EasyChair: <https://easychair.org/conferences/?conf=jitre2017> and
 follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_instructions).
@@ -52,9 +56,8 @@ See the [organization](org.md) page.
 ## Past Workshops
 
 1. JITRE-2015, outcomes report ([page 1](2015/2015-workshop-summary1.html), [page 2](2015/2015-workshop-summary2.html))
-2. 
 
-## References
+<!-- ## References
 
 [^1]:  Walt Scacchi, *Understanding the requirements for developing open source software systems*, IEE Software, 149(1): 24–39,
     February 2002.
@@ -72,5 +75,5 @@ See the [organization](org.md) page.
     
 [^7]:  Thomas A. Alspaugh and Walt Scacchi, “Ongoing Software Development without Classical Requirements”, *International Requirements    Engineering Conference (RE)*,  Rio de Janeiro, Brazil, July 2013, pages 165-174.
 
-[^8]:  Matthias Jarke, Pericles Loucopoulos, Kalle Lyytinen, John Mylopoulos, and William N. Robinson, *The brave new world of design     requirements*, Information Systems, 36(7): 992-1008, November, 2011.
+[^8]:  Matthias Jarke, Pericles Loucopoulos, Kalle Lyytinen, John Mylopoulos, and William N. Robinson, *The brave new world of design     requirements*, Information Systems, 36(7): 992-1008, November, 2011.-->
 
