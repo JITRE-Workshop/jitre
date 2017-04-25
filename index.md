@@ -1,4 +1,4 @@
-![](assets/images/j-i-t_2.png) ![PDF icon](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [CFP Flyer](assets/images/JiT-flyer.pages.pdf)
+![](assets/images/j-i-t_2.png) ![PDF icon](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [CFP Flyer](assets/images/JiT_flyer.pages.pdf)
 
 
 Requirements engineering (RE) in agile and open source settings is quite different than RE in more conventional development settings. In particular, these requirements tend to be more ad-hoc and ‘just-in-time’, developed as needed rather than upfront. Requirements might be called user stories, features, or even tasks. The differences become even more evident when it comes to optimal management of software quality demands and the integration of non-functional requirements into the software life cycle.
