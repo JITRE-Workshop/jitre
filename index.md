@@ -51,7 +51,7 @@ See the [organization](org.md) page.
 
 ## Past Workshops
 
-1. JITRE-2015, outcomes report ([page 1](2015/2015-workshop-summary1.html), [page 2](2015/2015-workshop-summary2.html))
+1. [JITRE-2015](https://jitre.wordpress.com), outcomes report ([page 1](2015/2015-workshop-summary1.html), [page 2](2015/2015-workshop-summary2.html))
 
 <!-- ## References
 
