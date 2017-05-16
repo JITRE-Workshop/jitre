@@ -43,7 +43,7 @@ This 1-day workshop will consist of an opening keynote, followed by morning pres
 
 ## Anticipated Outcomes
 
-This initial workshop on just-in-time RE aims to gather researchers working in this area in order to discover a set of open research problems and define a position statement outlining the ways in which just-in-time RE differs from traditional RE. Some characteristics like lightweight representation and evolutionary refinement of requirements are identified in [^4], [^5]. However, we anticipate wide, varied, open, and lively discussions reshaping the landscape and themes of just-in-time RE in the workshop. It is also our anticipation that the workshop provides a venue for researchers and practitioners to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
+This initial workshop on just-in-time RE aims to gather researchers working in this area in order to discover a set of open research problems and define a position statement outlining the ways in which just-in-time RE differs from traditional RE. Some characteristics like lightweight representation and evolutionary refinement of requirements are identified in [4], [5]. However, we anticipate wide, varied, open, and lively discussions reshaping the landscape and themes of just-in-time RE in the workshop. It is also our anticipation that the workshop provides a venue for researchers and practitioners to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
 
 ## Organization 
 
@@ -60,13 +60,14 @@ See the [organization](org.md) page.
     
 [^2]:  Taiichi Ohno, *Toyota Production System: Beyond Large-Scale Production*, Productivity Press, 1988.
     
-[^3]:  Mary Poppendieck and Tom Poppendieck, *Lean Software Development: An Agile Toolkit*, Addison-Wesley, 2013.
+[^3]:  Mary Poppendieck and Tom Poppendieck, *Lean Software Development: An Agile Toolkit*, Addison-Wesley, 2013. -->
     
-[^4]:  Neil A. Ernst and Gail Murphy, “Case Studies in Just-In-Time Requirements Analysis”, *International Workshop on Empirical
+[4]:  Neil A. Ernst and Gail Murphy, “Case Studies in Just-In-Time Requirements Analysis”, *International Workshop on Empirical
     Requirements Engineering (EmpiRE)*, Chicago, IL, USA, September 2012, pages 25-32.
     
-[^5]:  Nan Niu, Tanmay Bhowmik, Hui Liu, and Zhendong Niu, “Traceability-Enabled Refactoring for Managing Just-In-Time Requirements”, *International Requirements Engineering Conference (RE)*, Karlskrona, Sweden, August 2014, pages 133-142.
+[5]:  Nan Niu, Tanmay Bhowmik, Hui Liu, and Zhendong Niu, “Traceability-Enabled Refactoring for Managing Just-In-Time Requirements”, *International Requirements Engineering Conference (RE)*, Karlskrona, Sweden, August 2014, pages 133-142.
     
+<!--
 [^6]:  Petra Heck and Andy Zaidman, *[Horizontal Traceability for Just-In-Time Requirements: The Case for Open Source Feature     Requests](http://www.st.ewi.tudelft.nl/~zaidman/publications/heckJSEP.pdf)*, Journal of Software: Evolution and Process, pages 1280-1296, 26(12), 2014. 
     
 [^7]:  Thomas A. Alspaugh and Walt Scacchi, “Ongoing Software Development without Classical Requirements”, *International Requirements    Engineering Conference (RE)*,  Rio de Janeiro, Brazil, July 2013, pages 165-174.
