@@ -25,14 +25,14 @@ We invite submissions in the following categories.
 
 * position papers (4 pages), intended to stimulate discussion, particularly by the breakout session
 * research summaries (4 pages), intended to make all participants aware of existing and ongoing research in this area.
-* experience reports (4 pages), intended to share experiences and lessons learnt made in industrial environments.
+* experience reports (4 pages), intended to share experiences and lessons learned made in industrial environments.
 
 Submit papers via EasyChair: <https://easychair.org/conferences/?conf=jitre2017> and
 follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_instructions).
 
 ## Key Dates
 
-- Paper Submission	Friday, June 09, 2017
+- Paper Submission	~~Friday, June 09, 2017~~ Friday June 16, 2017 (AoE)
 - Paper Notification	Friday, June 30, 2017
 - Camera Ready Due	Sunday, July 16, 2017
 - Workshop Tuesday, September 5, 2017
