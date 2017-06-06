@@ -19,7 +19,7 @@
 
 # Organizers
 
-## General Chairs*
+## General Chairs<sup>☨</sup>
 * [Neil Ernst](http://twitter.com/neilernst), Software Engineering Institute, USA.
 * [Nan Niu](http://homepages.uc.edu/~niunn/), University of Cincinnati, USA. 
 
@@ -27,6 +27,7 @@
 * [Xavier Franch](https://www.essi.upc.edu/~franch/), UPC, Spain. 
 * [Daniel Méndez](http://www.mendezfe.org), Technical University of München, Germany.
 
-* "a general chair cannot submit a paper to the workshop and is
+
+☨ "a general chair cannot submit a paper to the workshop and is
 responsible for allocating papers for reviewing and discussion in a way
 that satisfies conflicts of interest and ensures confidentiality"
