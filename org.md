@@ -13,7 +13,7 @@
 * Kim Lauenroth,  adesso AG
 * Hui Liu, Beijing Institute of Technology, China 
 * Michael Mlynarski, QualityMinds GmbH
-* Victor  Muntés-Mulero, Universitat Politcnica de Catalunya
+* Victor Muntés-Mulero, Universitat Politécnica de Catalunya
 * Norbert Seyff, U of Applied Sciences, Switzerland
 * Yingbo Wu, Chongqing U, China
 
