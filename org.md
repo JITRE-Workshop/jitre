@@ -3,14 +3,14 @@
 * Vander Alves, University of Brasilia, Brazil 
 * Claudia Ayala, Polytechnic University of Catalonia, Spain
 * Tanmay Bhowmik, Mississippi State U, USA 
-* David   Callele, University of Saskatchewan 
+* David Callele, University of Saskatchewan 
 * Jane Cleland-Huang, U of Notre Dame, USA 
 * Carlos Henrique Duarte Brazilian Development Bank (BNDES)
-* Maya Daneva, U of Twente, The Netherlands 
+* Chong Wang, U of Twente, The Netherlands 
 * Petra Heck, Fontys Applied U, The Netherlands 
 * Zhi Jin, Peking U, China
 * Eric Knauss  Chalmers/University of Gothenburg, SW
-* Kim Lauenroth,  adesso AG
+* Kim Lauenroth, adesso AG
 * Hui Liu, Beijing Institute of Technology, China 
 * Michael Mlynarski, QualityMinds GmbH
 * Victor Muntés-Mulero, Universitat Politécnica de Catalunya
