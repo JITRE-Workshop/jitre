@@ -5,7 +5,7 @@
 * Tanmay Bhowmik, Mississippi State U, USA 
 * David Callele, University of Saskatchewan 
 * Jane Cleland-Huang, U of Notre Dame, USA 
-* Carlos Henrique Duarte Brazilian Development Bank (BNDES)
+* Carlos Henrique Duarte, Brazilian Development Bank (BNDES)
 * Chong Wang, U of Twente, The Netherlands 
 * Petra Heck, Fontys Applied U, The Netherlands 
 * Zhi Jin, Peking U, China
@@ -13,7 +13,7 @@
 * Kim Lauenroth, adesso AG
 * Hui Liu, Beijing Institute of Technology, China 
 * Michael Mlynarski, QualityMinds GmbH
-* Victor Muntés-Mulero, Universitat Politécnica de Catalunya
+* Victor Muntés-Mulero, CA Technologies
 * Norbert Seyff, U of Applied Sciences, Switzerland
 * Yingbo Wu, Chongqing U, China
 
