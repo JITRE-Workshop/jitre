@@ -42,32 +42,133 @@ follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_
 This 1-day workshop will consist of an opening keynote, followed by morning presentations. Post-lunch, we will have one more paper session and then breakout sessions in order to develop a ranked list of open problems. The final session will group back all workshop participants to summarize their discussion results, collect feedback, and plan future events and activities.
 
 ## Programme 
-| Time                                     | Activity in the program                                                                                           | Moderator/Presenter                           |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| SESSION 1: Keynote                       |                                                                                                                   |                                               |
-| 9:00 – 9:15                              | Opening. Introduction of participants                                                                             | Neil                                          |
-| 9:15 – 10:40                             | Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context" | Xavi                                          |
-| 10:40 – 11:00                            | Coffee-break                                                                                                      |                                               |
-| SESSION 2: Methods and Frameworks        |                                                                                                                   | Tanmay Bhowmik                                |
-| 11:00 - 11:15                            | Agile with Animals: Towards a Development Method                                                                  | Dirk van der Linden and Anna Zamansky         |
-| 11:15 - 11:30                            | Quality Requirements in Agile as a Knowledge Management Problem: More than Just-in-Time                           | Eric Knauss et al.                            |
-| 11:30 - 11:45                            | Behavior-Driven Requirements Traceability via Automated Acceptance Tests                                          | Garm Lucassen et al.                          |
-| 11:45 - 12:00                            | An Agile Method for Managing Requirements to Improve Learning and Adaptability                                    | Woogon Shim and Seok-Won Lee                  |
-| 12:00 - 12:15                            | A Regression Model Based Approach for Identifying Security Requirements in Open Source Software Development       | Wentao Wang et al.                            |
-| 12:15 – 12:30                            | Discussion                                                                                                        |                                               |
-| 12:30 – 14:00                            | Lunch                                                                                                             |                                               |
-| SESSION 3: Empirical Methods and Studies |                                                                                                                   | Neil Ernst                                    |
-| 14:00 - 14:15                            | Refinement and Resolution of Just-in-Time Requirements in Open Source Software: A Case Study                      | Anh Do and Tanmay Bhowmik                     |
-| 14:15 - 14:30                            | Data-driven Requirements Engineering in Agile Projects: The Q-Rapids Approach                                     | Xavier Franch et al.                          |
-| 14:30 - 14:45                            | Towards a Requirements Communication and Documentation Guideline for Agile Teams                                  | Anne Hess, Philipp Diebold and Norbert Seyff  |
-| 14:45 - 15:00                            | Automated Support to Capture Verbal Just-in-Time Requirements in Agile Development: A Practitioner View           | Corey Hollis and Tanmay Bhowmik               |
-| 15:00 - 15:15                            | Agile Practitioners’ Understanding of Security Requirements: Insights from a Grounded Theory Analysis             | Evenynke Terpstra, Maya Daneva and Chong Wang |
-| 15:15 – 15:30                            | Discussion                                                                                                        |                                               |
-| 15:30 – 16:00                            | Coffee-break                                                                                                      |                                               |
-| SESSION 4: Discussion and conclusions    |                                                                                                                   |                                               |
-| 16:00 – 16:45                            | Break-out groups                                                                                                  | TBD                                           |
-| 16:45 – 17:15                            | Summary of results. Plenary discussion                                                                            | Neil                                          |
-| 17:15 – 17:30                            | Next steps. Closing                                                                                               | Xavi                                          |
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Activity in the program</th>
+        <th>Moderator/Presenter</th>
+    </tr>
+    <tr>
+        <td>SESSION 1: Keynote</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9:00 &ndash; 9:15</td>
+        <td>Opening. Introduction of participants</td>
+        <td>Neil</td>
+    </tr>
+    <tr>
+        <td>9:15 &ndash; 10:40</td>
+        <td>Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context"</td>
+        <td>Xavi</td>
+    </tr>
+    <tr>
+        <td>10:40 &ndash; 11:00</td>
+        <td>Coffee-break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>SESSION 2: Methods and Frameworks</td>
+        <td></td>
+        <td>Tanmay Bhowmik</td>
+    </tr>
+    <tr>
+        <td>11:00 - 11:15</td>
+        <td>Agile with Animals: Towards a Development Method</td>
+        <td>Dirk van der Linden and Anna Zamansky</td>
+    </tr>
+    <tr>
+        <td>11:15 - 11:30</td>
+        <td>Quality Requirements in Agile as a Knowledge Management Problem: More than Just-in-Time</td>
+        <td>Eric Knauss et al. </td>
+    </tr>
+    <tr>
+        <td>11:30 - 11:45</td>
+        <td>Behavior-Driven Requirements Traceability via Automated Acceptance Tests</td>
+        <td>Garm Lucassen et al.</td>
+    </tr>
+    <tr>
+        <td>11:45 - 12:00</td>
+        <td>An Agile Method for Managing Requirements to Improve Learning and Adaptability</td>
+        <td>Woogon Shim and Seok-Won Lee</td>
+    </tr>
+    <tr>
+        <td>12:00 - 12:15</td>
+        <td>A Regression Model Based Approach for Identifying Security Requirements in Open Source Software Development</td>
+        <td>Wentao Wang et al.</td>
+    </tr>
+    <tr>
+        <td>12:15 &ndash; 12:30</td>
+        <td>Discussion</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12:30 &ndash; 14:00</td>
+        <td>Lunch</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>SESSION 3: Empirical Methods and Studies</td>
+        <td></td>
+        <td>Neil Ernst</td>
+    </tr>
+    <tr>
+        <td>14:00 - 14:15</td>
+        <td>Refinement and Resolution of Just-in-Time Requirements in Open Source Software: A Case Study</td>
+        <td>Anh Do and Tanmay Bhowmik</td>
+    </tr>
+    <tr>
+        <td>14:15 - 14:30</td>
+        <td>Data-driven Requirements Engineering in Agile Projects: The Q-Rapids Approach</td>
+        <td>Xavier Franch et al.</td>
+    </tr>
+    <tr>
+        <td>14:30 - 14:45</td>
+        <td>Towards a Requirements Communication and Documentation Guideline for Agile Teams</td>
+        <td>Anne Hess, Philipp Diebold and Norbert Seyff</td>
+    </tr>
+    <tr>
+        <td>14:45 - 15:00</td>
+        <td>Automated Support to Capture Verbal Just-in-Time Requirements in Agile Development: A Practitioner View</td>
+        <td>Corey Hollis and Tanmay Bhowmik</td>
+    </tr>
+    <tr>
+        <td>15:00 - 15:15</td>
+        <td>Agile Practitioners&rsquo; Understanding of Security Requirements: Insights from a Grounded Theory Analysis</td>
+        <td>Evenynke Terpstra, Maya Daneva and Chong Wang</td>
+    </tr>
+    <tr>
+        <td>15:15 &ndash; 15:30</td>
+        <td>Discussion</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:30 &ndash; 16:00</td>
+        <td>Coffee-break</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>SESSION 4: Discussion and conclusions</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16:00 &ndash; 16:45</td>
+        <td>Break-out groups</td>
+        <td>TBD</td>
+    </tr>
+    <tr>
+        <td>16:45 &ndash; 17:15</td>
+        <td>Summary of results. Plenary discussion</td>
+        <td>Neil</td>
+    </tr>
+    <tr>
+        <td>17:15 &ndash; 17:30</td>
+        <td>Next steps. Closing</td>
+        <td>Xavi</td>
+    </tr>
+</table>
 
 ## Anticipated Outcomes
 
