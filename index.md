@@ -41,6 +41,9 @@ follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_
 
 This 1-day workshop will consist of an opening keynote, followed by morning presentations. Post-lunch, we will have one more paper session and then breakout sessions in order to develop a ranked list of open problems. The final session will group back all workshop participants to summarize their discussion results, collect feedback, and plan future events and activities.
 
+## Programme 
+<iframe src="https://docs.google.com/spreadsheets/d/1keIFU6A4V60pSO1mBIM3p9ULBY8-Tckg5FCogRPQm7I/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ## Anticipated Outcomes
 
 This initial workshop on just-in-time RE aims to gather researchers working in this area in order to discover a set of open research problems and define a position statement outlining the ways in which just-in-time RE differs from traditional RE. Some characteristics like lightweight representation and evolutionary refinement of requirements are identified in <sup>[1](#ref1)</sup>, <sup>[2](#ref2)</sup>. However, we anticipate wide, varied, open, and lively discussions reshaping the landscape and themes of just-in-time RE in the workshop. It is also our anticipation that the workshop provides a venue for researchers and practitioners to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
