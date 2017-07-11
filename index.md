@@ -1,6 +1,3 @@
-![](assets/images/j-i-t_2.png) ![PDF icon](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [CFP Flyer](assets/images/JiT_flyer.pages.pdf)
-
-
 Requirements engineering (RE) in agile and open source settings is quite different than RE in more conventional development settings. In particular, these requirements tend to be more ad-hoc and ‘just-in-time’, developed as needed rather than upfront. Requirements might be called user stories, features, or even tasks. The differences become even more evident when it comes to optimal management of software quality demands and the integration of non-functional requirements into the software life cycle.
 
 This year, the Just-in-Time requirements engineering workshop will therefore put a particular focus on current challenges that agile software development teams face when integrating non-functional requirements into their practices. For instance, how are they represented in the backlog (as user stories, as acceptance criteria, ...)? How are they integrated into testing strategies? The theme is accordingly “Dealing with Non-functional requirements in Agile Software Development”. The workshop aims to gather researchers and practitioners in order to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
@@ -150,7 +147,7 @@ This year, the Just-in-Time requirements engineering workshop will therefore put
 -   empirical studies on just-in-time requirements
 
 ## Submissions
-
+![PDF icon](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png) [CFP Flyer](assets/images/JiT_flyer.pages.pdf)
 We invite submissions in the following categories.
 
 * position papers (4 pages), intended to stimulate discussion, particularly by the breakout session
