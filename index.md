@@ -24,7 +24,7 @@ This year, the Just-in-Time requirements engineering workshop will therefore put
     </tr>
     <tr>
         <td>9:15 &ndash; 10:40</td>
-        <td>[Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context"](jari-bio.md)</td>
+        <td><a href="jari-bio.md">Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context"</a></td>
         <td>Xavi</td>
     </tr>
     <tr>
