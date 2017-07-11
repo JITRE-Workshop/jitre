@@ -5,42 +5,6 @@ Requirements engineering (RE) in agile and open source settings is quite differe
 
 This year, the Just-in-Time requirements engineering workshop will therefore put a particular focus on current challenges that agile software development teams face when integrating non-functional requirements into their practices. For instance, how are they represented in the backlog (as user stories, as acceptance criteria, ...)? How are they integrated into testing strategies? The theme is accordingly “Dealing with Non-functional requirements in Agile Software Development”. The workshop aims to gather researchers and practitioners in order to share their experiences, forge new collaborations, and provoke innovative ways to tackle just-in-time requirements.
 
-## Topics of Interest
-
--   requirements in open source software
--   lightweight techniques for capturing and representing requirements
--   iterative reasoning about requirements satisfaction
--   developer understanding of requirements in agile development
--   making requirements useful throughout the software lifecycle
--   slicing user stories into iteration-sized components
--   defining ‘done’
--   acceptance testing requirements
--   specification by example and behavior-driven development
--   tracing and evolving just-in-time requirements
--   empirical studies on just-in-time requirements
-
-## Submissions
-
-We invite submissions in the following categories.
-
-* position papers (4 pages), intended to stimulate discussion, particularly by the breakout session
-* research summaries (4 pages), intended to make all participants aware of existing and ongoing research in this area.
-* experience reports (4 pages), intended to share experiences and lessons learned made in industrial environments.
-
-Submit papers via EasyChair: <https://easychair.org/conferences/?conf=jitre2017> and
-follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_instructions).
-
-## Key Dates
-
-- Paper Submission	~~Friday, June 09, 2017~~ Friday June 16, 2017 (AoE)
-- Paper Notification	Friday, June 30, 2017
-- Camera Ready Due	Sunday, July 16, 2017
-- Workshop Tuesday, September 5, 2017
-
-## Format
-
-This 1-day workshop will consist of an opening keynote, followed by morning presentations. Post-lunch, we will have one more paper session and then breakout sessions in order to develop a ranked list of open problems. The final session will group back all workshop participants to summarize their discussion results, collect feedback, and plan future events and activities.
-
 ## Programme 
 <table>
     <tr>
@@ -60,7 +24,7 @@ This 1-day workshop will consist of an opening keynote, followed by morning pres
     </tr>
     <tr>
         <td>9:15 &ndash; 10:40</td>
-        <td>Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context"</td>
+        <td>[Keynote: Jari Partanen (Bittium): "Towards Continuous Deployment in the Embedded Software Domain and B2B Context"](jari-bio.md)</td>
         <td>Xavi</td>
     </tr>
     <tr>
@@ -169,6 +133,43 @@ This 1-day workshop will consist of an opening keynote, followed by morning pres
         <td>Xavi</td>
     </tr>
 </table>
+
+
+## Topics of Interest
+
+-   requirements in open source software
+-   lightweight techniques for capturing and representing requirements
+-   iterative reasoning about requirements satisfaction
+-   developer understanding of requirements in agile development
+-   making requirements useful throughout the software lifecycle
+-   slicing user stories into iteration-sized components
+-   defining ‘done’
+-   acceptance testing requirements
+-   specification by example and behavior-driven development
+-   tracing and evolving just-in-time requirements
+-   empirical studies on just-in-time requirements
+
+## Submissions
+
+We invite submissions in the following categories.
+
+* position papers (4 pages), intended to stimulate discussion, particularly by the breakout session
+* research summaries (4 pages), intended to make all participants aware of existing and ongoing research in this area.
+* experience reports (4 pages), intended to share experiences and lessons learned made in industrial environments.
+
+Submit papers via EasyChair: <https://easychair.org/conferences/?conf=jitre2017> and
+follow the [IEEE formatting instructions](http://re17.org/pages/faq/formatting_instructions).
+
+## Key Dates
+
+- Paper Submission	~~Friday, June 09, 2017~~ Friday June 16, 2017 (AoE)
+- Paper Notification	Friday, June 30, 2017
+- Camera Ready Due	Sunday, July 16, 2017
+- Workshop Tuesday, September 5, 2017
+
+## Format
+
+This 1-day workshop will consist of an opening keynote, followed by morning presentations. Post-lunch, we will have one more paper session and then breakout sessions in order to develop a ranked list of open problems. The final session will group back all workshop participants to summarize their discussion results, collect feedback, and plan future events and activities.
 
 ## Anticipated Outcomes
 
